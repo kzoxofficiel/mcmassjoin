@@ -23,5 +23,5 @@ This project enables mass joining of Minecraft servers by creating multiple bots
 
 2. **Clone the repository**
    ```bash
-   git clone https://github.com/kzoxmazpx/mcmassjoin.git
+   git clone https://github.com/kzoxofficiel/mcmassjoin.git
    cd mcmassjoin
